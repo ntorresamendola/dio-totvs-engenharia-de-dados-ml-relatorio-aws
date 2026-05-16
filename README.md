@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 16/05/2026
+
 Empresa: Abstergo Industries
+
 Responsável: Natanael T. A.
 
 ## Introdução
@@ -28,19 +30,21 @@ Etapa 2:
 
 Etapa 3:
 
-- Amazon Relational Database Service (RDS)
+- Serviço: Amazon Relational Database Service (RDS)
 - Banco de dados relacional gerenciado que conta com patches automatizados, backups e redundância.
 - Por que usar nesta etapa: tendo os dados brutos já sido armazenáveis na etapa 2, organizar e acessar dados estruturados é a medida que mais geraria economia para a empresa. Gerenciar nossa própria estrutura de banco de dados, desde o armazenamento físico em hardware até as autorizações de operações, requer um time especializado em banco de dados, segurança e infraestrutura, funções especializadas que oneram de forma significativa a folha de pagamento da nossa empresa.
 - Caso de uso: armazenar e consultar bases de clientes, fornecedores, catálogos de produtos, pedidos, estoque por lote/validade, histórico de movimentação, informações sobre colaboradores e tantos outros dados que precisam ser armazenados e acessados na operação da nossa empresa.
 
 ## Conclusão
 
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução de custos com a manutenção e operação, segurança dos dados e informações da empresa, diminuindo a necessidade de colaboradores dedicados e especialistas e a compra e manutenção de hardware e software dedicados, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa * Abstergo Industries tem como esperado a redução de custos com a manutenção, operação e segurança dos dados da empresa, diminuindo a necessidade de colaboradores dedicados e especialistas, assim como a compra e manutenção de hardware e software dedicados *, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
 Sobre o AWS IAM: [AWS IAM](https://docs.aws.amazon.com/pt_br/iam/)
+
 Sobre o Amazon Simple Storage Service: [AWS S3](https://aws.amazon.com/pt/s3/)
+
 Sobre o Amazon Relational Database Service: [AWS RDS](https://aws.amazon.com/pt/rds/)
 
 Assinatura do Responsável pelo Projeto:
